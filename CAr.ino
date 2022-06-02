@@ -1,7 +1,7 @@
 
 //Name : Sohil Nagpal
 //Student ID : 2110994793
-//Task 7.2C - Bluetooth Controlled Car
+//Task 7.1C - Bluetooth Controlled Car
 //SIT217 Robotics Project
 
 int m1a = 10;
